@@ -1,0 +1,319 @@
+Eintrag:
+  lidar_path: ml/datasets/nuScenes/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151214898277.pcd.bin
+  token: c2e56200cb7d46b6a93fb4ec389f4ba9
+  prev: 894616d89edf41b8bbfd542a150e8fbd
+  next: 7604c6ea363c4a4a8fcf574281a7ac86
+  frame_idx: 23
+  Sweeps (erste 3 Einträge):
+    Sweep 1:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151214847928.pcd.bin
+    Sweep 2:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151214798176.pcd.bin
+    Sweep 3:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151214747848.pcd.bin
+
+========================================
+
+Eintrag:
+  lidar_path: ml/datasets/nuScenes/samples/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151696199428.pcd.bin
+  token: 627e704445a44e158f8bd7566d764de3
+  prev: 6a01e06e2d684e48b59aac7eddf08f0f
+  next: 113bdf9278314c72b7f8988a67f0dff9
+  frame_idx: 13
+  Sweeps (erste 3 Einträge):
+    Sweep 1:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151696149105.pcd.bin
+    Sweep 2:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151696099368.pcd.bin
+    Sweep 3:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-08-01-15-16-36-0400__LIDAR_TOP__1533151696049571.pcd.bin
+
+========================================
+
+Eintrag:
+  lidar_path: ml/datasets/nuScenes/samples/LIDAR_TOP/n015-2018-07-11-11-54-16+0800__LIDAR_TOP__1531281837799249.pcd.bin
+  token: 6d32f67b3307453aae7b942c91b7b9e8
+  prev: 3d65380e1e2b470bbe0c944ecec05616
+  next: d6f9027a85474ee4bbd4103cc7619f4f
+  frame_idx: 4
+  Sweeps (erste 3 Einträge):
+    Sweep 1:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n015-2018-07-11-11-54-16+0800__LIDAR_TOP__1531281837748910.pcd.bin
+    Sweep 2:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n015-2018-07-11-11-54-16+0800__LIDAR_TOP__1531281837648821.pcd.bin
+    Sweep 3:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n015-2018-07-11-11-54-16+0800__LIDAR_TOP__1531281837599076.pcd.bin
+
+========================================
+
+Eintrag:
+  lidar_path: ml/datasets/nuScenes/samples/LIDAR_TOP/n015-2018-07-11-11-54-16+0800__LIDAR_TOP__1531281974698911.pcd.bin
+  token: 03c4ae55f4f747ea89deb0834aa0a125
+  prev: fa5cd3e2f2424263b9558b654fbbc831
+  next: 8d482af343ab4ae79fcf4d6aa13806d3
+  frame_idx: 26
+  Sweeps (erste 3 Einträge):
+    Sweep 1:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n015-2018-07-11-11-54-16+0800__LIDAR_TOP__1531281974649151.pcd.bin
+    Sweep 2:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n015-2018-07-11-11-54-16+0800__LIDAR_TOP__1531281974598870.pcd.bin
+    Sweep 3:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n015-2018-07-11-11-54-16+0800__LIDAR_TOP__1531281974549072.pcd.bin
+
+========================================
+
+Eintrag:
+  lidar_path: ml/datasets/nuScenes/samples/LIDAR_TOP/n008-2018-08-22-15-53-49-0400__LIDAR_TOP__1534968033448567.pcd.bin
+  token: 5c7c23122dd94c70b8ab5528f27ba117
+  prev: 6c9ad4d2b6084ccea4a7aff96cb9eef0
+  next: f17eff26a49243a182f6843ff4f2d68d
+  frame_idx: 6
+  Sweeps (erste 3 Einträge):
+    Sweep 1:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-08-22-15-53-49-0400__LIDAR_TOP__1534968033398264.pcd.bin
+    Sweep 2:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-08-22-15-53-49-0400__LIDAR_TOP__1534968033348481.pcd.bin
+    Sweep 3:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-08-22-15-53-49-0400__LIDAR_TOP__1534968033298155.pcd.bin
+
+========================================
+
+Eintrag:
+  lidar_path: ml/datasets/nuScenes/samples/LIDAR_TOP/n008-2018-08-30-10-33-52-0400__LIDAR_TOP__1535639737200702.pcd.bin
+  token: f65b5a66192a49c3b07a15d82fbe61cf
+  prev: 89c9204978674480aec9d2a9a377eecc
+  next: 24e671b65855442a941d814333362d53
+  frame_idx: 1
+  Sweeps (erste 3 Einträge):
+    Sweep 1:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-08-30-10-33-52-0400__LIDAR_TOP__1535639737150907.pcd.bin
+    Sweep 2:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-08-30-10-33-52-0400__LIDAR_TOP__1535639737100609.pcd.bin
+    Sweep 3:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-08-30-10-33-52-0400__LIDAR_TOP__1535639737050827.pcd.bin
+
+========================================
+
+Eintrag:
+  lidar_path: ml/datasets/nuScenes/samples/LIDAR_TOP/n008-2018-08-31-11-37-23-0400__LIDAR_TOP__1535730283048094.pcd.bin
+  token: f985fdf481a9435da2abd6fcf34316d9
+  prev: 1362553338b944a3b614b5339b920b6a
+  next: 6b4baeae04ab4033a8c83e109ea7b7a6
+  frame_idx: 18
+  Sweeps (erste 3 Einträge):
+    Sweep 1:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-08-31-11-37-23-0400__LIDAR_TOP__1535730282997754.pcd.bin
+    Sweep 2:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-08-31-11-37-23-0400__LIDAR_TOP__1535730282947987.pcd.bin
+    Sweep 3:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-08-31-11-37-23-0400__LIDAR_TOP__1535730282897655.pcd.bin
+
+========================================
+
+Eintrag:
+  lidar_path: ml/datasets/nuScenes/samples/LIDAR_TOP/n008-2018-08-31-11-37-23-0400__LIDAR_TOP__1535730479397075.pcd.bin
+  token: ca2015ea2f06453c8d34fb1894ffde7d
+  prev: 66844d48bb9c4c5b9d9aa715c6c668a6
+  next: 170c222d8a514f258839c489fb48ff0f
+  frame_idx: 37
+  Sweeps (erste 3 Einträge):
+    Sweep 1:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-08-31-11-37-23-0400__LIDAR_TOP__1535730479347310.pcd.bin
+    Sweep 2:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-08-31-11-37-23-0400__LIDAR_TOP__1535730479296994.pcd.bin
+    Sweep 3:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-08-31-11-37-23-0400__LIDAR_TOP__1535730479247683.pcd.bin
+
+========================================
+
+Eintrag:
+  lidar_path: ml/datasets/nuScenes/samples/LIDAR_TOP/n008-2018-08-31-11-37-23-0400__LIDAR_TOP__1535730642449075.pcd.bin
+  token: 5eeaeb688f274b839865198f96968bb5
+  prev: e92b0dc7a8d047f99f114ad792138339
+  next: b5c051cae12a4809bd699c77f295fea0
+  frame_idx: 15
+  Sweeps (erste 3 Einträge):
+    Sweep 1:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-08-31-11-37-23-0400__LIDAR_TOP__1535730642398749.pcd.bin
+    Sweep 2:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-08-31-11-37-23-0400__LIDAR_TOP__1535730642348969.pcd.bin
+    Sweep 3:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-08-31-11-37-23-0400__LIDAR_TOP__1535730642298643.pcd.bin
+
+========================================
+
+Eintrag:
+  lidar_path: ml/datasets/nuScenes/samples/LIDAR_TOP/n008-2018-08-30-15-31-50-0400__LIDAR_TOP__1535657817548743.pcd.bin
+  token: 6652a70586d741f5b9da67434412dd36
+  prev: 962eba6509994f189ac59e3d8355f15a
+  next: 1669cfdeb01442fca45f33c2861534af
+  frame_idx: 11
+  Sweeps (erste 3 Einträge):
+    Sweep 1:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-08-30-15-31-50-0400__LIDAR_TOP__1535657817498439.pcd.bin
+    Sweep 2:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-08-30-15-31-50-0400__LIDAR_TOP__1535657817450852.pcd.bin
+    Sweep 3:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-08-30-15-31-50-0400__LIDAR_TOP__1535657817398356.pcd.bin
+
+========================================
+
+Eintrag:
+  lidar_path: ml/datasets/nuScenes/samples/LIDAR_TOP/n008-2018-08-30-15-31-50-0400__LIDAR_TOP__1535657845548458.pcd.bin
+  token: e67f3e81225f426f8e1743af45487762
+  prev: 4f8243ae6cbe4793aac0e0c96a1ae46a
+  next: 5c3ac3d68f3a4abcb0a7d00eabf4acc5
+  frame_idx: 27
+  Sweeps (erste 3 Einträge):
+    Sweep 1:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-08-30-15-31-50-0400__LIDAR_TOP__1535657845498696.pcd.bin
+    Sweep 2:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-08-30-15-31-50-0400__LIDAR_TOP__1535657845448388.pcd.bin
+    Sweep 3:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-08-30-15-31-50-0400__LIDAR_TOP__1535657845398615.pcd.bin
+
+========================================
+
+Eintrag:
+  lidar_path: ml/datasets/nuScenes/samples/LIDAR_TOP/n015-2018-10-02-10-50-40+0800__LIDAR_TOP__1538448721197869.pcd.bin
+  token: 7494f58f5b054b78af9c956d9076ca3d
+  prev: 3c55b075eee045b7918e4c12275cbdaa
+  next: e401b2cdb56d4d6599fcf40ed020ad9c
+  frame_idx: 34
+  Sweeps (erste 3 Einträge):
+    Sweep 1:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n015-2018-10-02-10-50-40+0800__LIDAR_TOP__1538448721147545.pcd.bin
+    Sweep 2:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n015-2018-10-02-10-50-40+0800__LIDAR_TOP__1538448721097760.pcd.bin
+    Sweep 3:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n015-2018-10-02-10-50-40+0800__LIDAR_TOP__1538448721047485.pcd.bin
+
+========================================
+
+Eintrag:
+  lidar_path: ml/datasets/nuScenes/samples/LIDAR_TOP/n015-2018-10-02-10-50-40+0800__LIDAR_TOP__1538448891448243.pcd.bin
+  token: e037204456ec4757888d4f23a51d68a6
+  prev: c6a183ebd7a14560aa296548bf742f43
+  next: 0181321478f94908b4b668b47b492519
+  frame_idx: 15
+  Sweeps (erste 3 Einträge):
+    Sweep 1:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n015-2018-10-02-10-50-40+0800__LIDAR_TOP__1538448891397954.pcd.bin
+    Sweep 2:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n015-2018-10-02-10-50-40+0800__LIDAR_TOP__1538448891348183.pcd.bin
+    Sweep 3:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n015-2018-10-02-10-50-40+0800__LIDAR_TOP__1538448891298395.pcd.bin
+
+========================================
+
+Eintrag:
+  lidar_path: ml/datasets/nuScenes/samples/LIDAR_TOP/n008-2018-09-18-15-12-01-0400__LIDAR_TOP__1537298097299333.pcd.bin
+  token: 0186cbb6a991468c9d23226afeb62b15
+  prev: 4d214e9ba19f48ec8a6e636ca8c6b1c4
+  next: 2ec05dce9faf45d39cdf8188471e9ea7
+  frame_idx: 23
+  Sweeps (erste 3 Einträge):
+    Sweep 1:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-09-18-15-12-01-0400__LIDAR_TOP__1537298097249026.pcd.bin
+    Sweep 2:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-09-18-15-12-01-0400__LIDAR_TOP__1537298097199268.pcd.bin
+    Sweep 3:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-09-18-15-12-01-0400__LIDAR_TOP__1537298097148929.pcd.bin
+
+========================================
+
+Eintrag:
+  lidar_path: ml/datasets/nuScenes/samples/LIDAR_TOP/n008-2018-09-18-15-12-01-0400__LIDAR_TOP__1537298347198716.pcd.bin
+  token: d2f45becb0af4a458e678d21f2b9add2
+  prev: ca58f510e1a34f16b51196ada968393f
+  next: 7c7be93dfab0447a8706a6a4c2a7a1bf
+  frame_idx: 3
+  Sweeps (erste 3 Einträge):
+    Sweep 1:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-09-18-15-12-01-0400__LIDAR_TOP__1537298347148918.pcd.bin
+    Sweep 2:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-09-18-15-12-01-0400__LIDAR_TOP__1537298347098595.pcd.bin
+    Sweep 3:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n008-2018-09-18-15-12-01-0400__LIDAR_TOP__1537298347048854.pcd.bin
+
+========================================
+
+Eintrag:
+  lidar_path: ml/datasets/nuScenes/samples/LIDAR_TOP/n015-2018-09-25-13-17-43+0800__LIDAR_TOP__1537852977198704.pcd.bin
+  token: cf1f764135e34227bb074c1899959042
+  prev: e3a3363b3b134f1b822188198ddef02b
+  next: 46ad5083ad2c4207994cf8b0ff2db6a5
+  frame_idx: 6
+  Sweeps (erste 3 Einträge):
+    Sweep 1:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n015-2018-09-25-13-17-43+0800__LIDAR_TOP__1537852977148955.pcd.bin
+    Sweep 2:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n015-2018-09-25-13-17-43+0800__LIDAR_TOP__1537852977098617.pcd.bin
+    Sweep 3:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n015-2018-09-25-13-17-43+0800__LIDAR_TOP__1537852977048866.pcd.bin
+
+========================================
+
+Eintrag:
+  lidar_path: ml/datasets/nuScenes/samples/LIDAR_TOP/n015-2018-11-21-19-21-35+0800__LIDAR_TOP__1542799356697571.pcd.bin
+  token: fb43e7b654544445b20bdaae68038689
+  prev: b62301d314354c24a5112e796ee19d59
+  next: 5510e4b6d7f4430fbcc77cf660d9fbb6
+  frame_idx: 29
+  Sweeps (erste 3 Einträge):
+    Sweep 1:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n015-2018-11-21-19-21-35+0800__LIDAR_TOP__1542799356647270.pcd.bin
+    Sweep 2:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n015-2018-11-21-19-21-35+0800__LIDAR_TOP__1542799356597492.pcd.bin
+    Sweep 3:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n015-2018-11-21-19-21-35+0800__LIDAR_TOP__1542799356547176.pcd.bin
+
+========================================
+
+Eintrag:
+  lidar_path: ml/datasets/nuScenes/samples/LIDAR_TOP/n015-2018-11-21-19-21-35+0800__LIDAR_TOP__1542799564398349.pcd.bin
+  token: d15d80fd4f7b4a0b99f3c63cc13768db
+  prev: f13ad971e0d74e6bbb41ce7cc2aa5f0e
+  next: fc6ff393834243af95604b50850c6304
+  frame_idx: 4
+  Sweeps (erste 3 Einträge):
+    Sweep 1:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n015-2018-11-21-19-21-35+0800__LIDAR_TOP__1542799564347998.pcd.bin
+    Sweep 2:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n015-2018-11-21-19-21-35+0800__LIDAR_TOP__1542799564299476.pcd.bin
+    Sweep 3:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n015-2018-11-21-19-21-35+0800__LIDAR_TOP__1542799564247940.pcd.bin
+
+========================================
+
+Eintrag:
+  lidar_path: ml/datasets/nuScenes/samples/LIDAR_TOP/n015-2018-11-21-19-21-35+0800__LIDAR_TOP__1542799668197808.pcd.bin
+  token: 560ca003953545d4a7d316b37350d597
+  prev: f02d48168d5145109cfb2ddd7f35b04e
+  next: 9dec7ba7e6d44e069cc6a6c124c91ce0
+  frame_idx: 12
+  Sweeps (erste 3 Einträge):
+    Sweep 1:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n015-2018-11-21-19-21-35+0800__LIDAR_TOP__1542799668147527.pcd.bin
+    Sweep 2:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n015-2018-11-21-19-21-35+0800__LIDAR_TOP__1542799668097727.pcd.bin
+    Sweep 3:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n015-2018-11-21-19-21-35+0800__LIDAR_TOP__1542799668047958.pcd.bin
+
+========================================
+
+Eintrag:
+  lidar_path: ml/datasets/nuScenes/samples/LIDAR_TOP/n015-2018-11-21-19-21-35+0800__LIDAR_TOP__1542799718898189.pcd.bin
+  token: 51b48a4ba38b4824a21d4a8b39a7a6e9
+  prev: afbe52e790a44a50bb766f746318a83e
+  next: 7e7a4ea05c58491da5afa62cd99d2d3f
+  frame_idx: 33
+  Sweeps (erste 3 Einträge):
+    Sweep 1:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n015-2018-11-21-19-21-35+0800__LIDAR_TOP__1542799718848459.pcd.bin
+    Sweep 2:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n015-2018-11-21-19-21-35+0800__LIDAR_TOP__1542799718798100.pcd.bin
+    Sweep 3:
+      data_path: /datasets/nuScenes/sweeps/LIDAR_TOP/n015-2018-11-21-19-21-35+0800__LIDAR_TOP__1542799718748331.pcd.bin
+
+========================================
